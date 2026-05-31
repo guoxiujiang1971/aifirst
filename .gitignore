@@ -1,0 +1,19 @@
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.pbxproj.orig
+*.pbxproj.baiduyun.uploading.cfg
+
+# Build
+.build/
+DerivedData/
+*.xcarchive
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
